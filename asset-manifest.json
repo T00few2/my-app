@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.ef089ab8.css",
+    "main.css": "/my-app/static/css/main.cb0f9621.css",
     "main.js": "/my-app/static/js/main.2c07273a.js",
     "static/js/453.ed3810f9.chunk.js": "/my-app/static/js/453.ed3810f9.chunk.js",
     "static/media/DZRlogo1.jpg": "/my-app/static/media/DZRlogo1.ce6fe7d80d24af5ad093.jpg",
     "index.html": "/my-app/index.html",
-    "main.ef089ab8.css.map": "/my-app/static/css/main.ef089ab8.css.map",
+    "main.cb0f9621.css.map": "/my-app/static/css/main.cb0f9621.css.map",
     "main.2c07273a.js.map": "/my-app/static/js/main.2c07273a.js.map",
     "453.ed3810f9.chunk.js.map": "/my-app/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ef089ab8.css",
+    "static/css/main.cb0f9621.css",
     "static/js/main.2c07273a.js"
   ]
 }
